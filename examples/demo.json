@@ -1,0 +1,51 @@
+{
+  "now": "2026-10-24T10:00:00+08:00",
+  "coupons": [
+    {
+      "title": "合成免费兑换券",
+      "ifFreeCoupon": true,
+      "enable": 1,
+      "discountInfo": { "discountDesc": "用券价格", "discountValue": "0元" },
+      "tradeStartDate": "2026-10-01",
+      "tradeEndDate": "2026-10-31"
+    },
+    {
+      "title": "合成付费汉堡券",
+      "ifFreeCoupon": false,
+      "enable": 1,
+      "discountInfo": { "discountDesc": "用券价格", "discountValue": "11.9元" },
+      "tradeStartDate": "2026-10-01",
+      "tradeEndDate": "2026-10-28"
+    },
+    {
+      "title": "免费双层汉堡",
+      "enable": 1,
+      "tradeStartDate": "2026-10-01",
+      "tradeEndDate": "2026-10-30"
+    },
+    {
+      "title": "未来合成券",
+      "ifFreeCoupon": true,
+      "enable": 1,
+      "discountInfo": { "discountDesc": "用券价格", "discountValue": "0元" },
+      "tradeStartDate": "2026-11-01",
+      "tradeEndDate": "2026-11-30"
+    },
+    {
+      "title": "过期合成券",
+      "ifFreeCoupon": false,
+      "enable": 1,
+      "discountInfo": { "discountDesc": "用券价格", "discountValue": "5元" },
+      "tradeStartDate": "2026-09-01",
+      "tradeEndDate": "2026-09-30"
+    },
+    {
+      "title": "价格冲突合成券",
+      "ifFreeCoupon": true,
+      "enable": 1,
+      "discountInfo": { "discountDesc": "用券价格", "discountValue": "3元" },
+      "tradeStartDate": "2026-10-01",
+      "tradeEndDate": "2026-10-31"
+    }
+  ]
+}
